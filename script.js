@@ -110,7 +110,7 @@ function updateForecastItems(weatherData)
         main:{temp}
 
     } = weatherData;
-    const dateTaken = new Date();
+    const dateTaken = new Date(date);
     const dateOption = {
         day : '2-digit',
         month : 'short',

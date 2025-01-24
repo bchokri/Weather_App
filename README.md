@@ -1,4 +1,4 @@
-# Weather App
+# Weather App Clone
 
 A real-time weather application that displays current conditions and 5-day forecasts using the OpenWeatherMap API.
 

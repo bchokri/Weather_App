@@ -131,3 +131,5 @@ function showDisplaySection(section)
     [weatherInfoSection,searchCitySection,notFoundSection].forEach(section => section.style.display = 'none');
     section.style.display = 'flex';
 }
+
+

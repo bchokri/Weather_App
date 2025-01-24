@@ -37,7 +37,7 @@ body::before{
 
 .main-container
 {
-    width: 300px;
+    width: 400px;
     height: 496px;
     z-index: 1;
     background: linear-gradient(to top,rgb(0,0,0,0.15),rgb(255,255,255,0.15));
@@ -159,11 +159,11 @@ body::before{
     width: 8px;
 }
 
-.forecast-items-container::-webkit-scrollbar-track
+/* .forecast-items-container::-webkit-scrollbar-track
 {
     background: rgb(0,0,0,0.1);
     border-radius: 99px;
-}
+} */
 
 .forecast-items-container::-webkit-scrollbar-thumb
 {
@@ -211,3 +211,6 @@ body::before{
 
 
 /* END SECTION : MESSAGE */
+
+
+
